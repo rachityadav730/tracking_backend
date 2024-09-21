@@ -44,4 +44,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'actioncable'
 gem 'redis', '~> 4.0'
 gem 'rspec-rails' # For testing
+gem 'sidekiq'
 
